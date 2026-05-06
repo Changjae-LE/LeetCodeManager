@@ -7,7 +7,7 @@ It helps you track problem-solving status and quickly find problems that need re
 
 ## Screenshot
 
-![LeetCode Study Manager Screenshot](assets/screenshot.png)
+![LeetCode Study Manager Screenshot](asset/screenshot.png)
 
 ---
 
@@ -43,7 +43,7 @@ It helps you track problem-solving status and quickly find problems that need re
 ### Option 1 — Run with `dotnet run`
 
 ```bash
-git clone https://github.com/<your-username>/LeetCodeManager.git
+git clone https://github.com/Changjae-LE/LeetCodeManager.git
 cd LeetCodeManager
 dotnet restore
 dotnet run
