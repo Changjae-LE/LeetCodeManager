@@ -7,7 +7,7 @@ It helps you track problem-solving status and quickly find problems that need re
 
 ## Screenshot
 
-> _(Add a screenshot of the app here after running it.)_
+![LeetCode Study Manager Screenshot](assets/screenshot.png)
 
 ---
 
